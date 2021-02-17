@@ -1,3 +1,4 @@
+// No es mala idea usar encabezados
 import java.util.Scanner;
 
 
@@ -17,7 +18,7 @@ public class main {
 			System.out.println("1=Area del circulo");
 			System.out.println("2=Area del triangulo");
 			System.out.println("3=Area del cuadrado");
-			System.out.println("4=Area del rectangulo");
+			System.out.println("4=Area del polígono");
 			System.out.println("5=Salir");
 			
 			
